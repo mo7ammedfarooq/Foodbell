@@ -1,0 +1,77 @@
+
+/* shimmer */
+
+.shimmer-search-box{
+    display: flex;
+    justify-content: center;
+}
+
+.shimmer-search{
+    width: 40%;
+    height: 55px;
+    padding: 20px;
+    margin: 35px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 10px; 
+    display: inline-block;
+    margin-right: 0;
+
+}
+
+.shimmer-search-btn{
+    width: 10%;
+    height: 55px;
+    padding: 20px;
+    margin: 35px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 10px; 
+    display: inline-block;
+
+}
+
+.shimmer{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vw;
+    margin-inline: auto;
+    justify-content: space-between;
+
+}
+
+.shimmer-box{
+    /* border: 2px solid black; */
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 10px;
+}
+
+.shimmer-img{
+    /* border: 1px solid black; */
+
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.shimmer-line1{
+    width: 100%;
+    height: 35px;
+    /* border: 2px solid black; */
+    margin-block: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.shimmer-line2{
+    width: 80%;
+    height: 15px;
+    /* border: 2px solid black; */
+    margin-block: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    background-color: white;
+}

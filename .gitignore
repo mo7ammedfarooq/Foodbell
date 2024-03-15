@@ -1,0 +1,8 @@
+
+
+.parcel-cache
+dist
+node_modules
+README.txt
+README_props_and_destructuring.txt
+/coverage
