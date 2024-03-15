@@ -7,3 +7,4 @@ README.txt
 README_props_and_destructuring.txt
 /coverage
 .vercel
+.babelrc
